@@ -1,0 +1,15 @@
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\bin\Debug\net7.0\fianciamento.exe
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\bin\Debug\net7.0\fianciamento.deps.json
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\bin\Debug\net7.0\fianciamento.runtimeconfig.json
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\bin\Debug\net7.0\fianciamento.dll
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\bin\Debug\net7.0\fianciamento.pdb
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.dll
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\refint\fianciamento.dll
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.pdb
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\fianciamento.genruntimeconfig.cache
+C:\Users\charl\OneDrive\Documentos\ETEC programação\fianciamento\obj\Debug\net7.0\ref\fianciamento.dll
